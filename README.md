@@ -8,9 +8,13 @@ Despite having a significant number of leads, X Education struggles with a low l
 To address this, you need to build a logistic regression model that assigns a lead score between 0 and 100 to each lead. A higher score would indicate a 'Hot Lead' with a higher likelihood of conversion, while a lower score would suggest a 'Cold Lead' less likely to convert. Additionally, the company faces other challenges that might require future adjustments to your model. These challenges are detailed in a separate document that you will need to address based on your initial logistic regression model. Make sure to incorporate these details into your final presentation, where you will provide recommendations.
 # Steps Followed
 -Reading Data
+
 -Cleaning Data
+
 -EDA
+
 -Creating Dummy
+
 -Splitting data into train and test set
 -Building Model
 -Making Predictions
